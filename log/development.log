@@ -1,0 +1,2678 @@
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 11:26:41 +0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/railties-4.1.4/lib/rails/templates/rails/welcome/index.html.erb (13.0ms)
+Completed 200 OK in 979ms (Views: 563.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 11:41:16 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (43.0ms)
+Completed 200 OK in 16814ms (Views: 16217.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 11:41:35 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 11:41:36 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 11:41:36 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 11:41:36 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 11:41:36 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 11:41:36 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 11:41:36 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 11:41:36 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 11:56:57 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 2804ms (Views: 2755.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 11:57:01 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 11:57:02 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 11:57:02 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 11:57:02 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 11:57:02 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 11:57:02 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 11:57:02 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 11:57:02 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 11:57:02 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 11:58:20 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (126.0ms)
+Completed 200 OK in 147ms (Views: 144.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 11:58:20 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 11:58:20 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 11:58:20 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 11:58:21 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 11:58:21 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 11:58:21 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 11:58:21 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 11:58:21 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 11:58:21 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 12:04:47 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:04:48 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:04:48 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:04:48 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:04:48 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:04:48 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:04:48 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:04:48 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:04:49 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:04:49 +0400
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 12:04:58 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"123", "text"=>"hey"}, "commit"=>"Save Article"}
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (149.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (118.0ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.0ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreateArticles (20140722080635)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (2.0ms)[0m  CREATE TABLE "articles" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "text" text, "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20140722080635"]]
+  [1m[35m (161.0ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 12:24:06 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 1269ms (Views: 1206.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:24:08 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:24:08 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:08 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:24:08 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:08 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:09 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:09 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:09 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:09 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 12:24:14 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2044.1ms)
+Completed 200 OK in 2075ms (Views: 2073.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:24:17 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:24:17 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:17 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:17 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:24:17 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:17 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:17 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:17 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:24:17 +0400
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 12:24:27 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"56", "text"=>"hello"}, "commit"=>"Save Article"}
+Completed 500 Internal Server Error in 9ms
+
+ActiveModel::ForbiddenAttributesError (ActiveModel::ForbiddenAttributesError):
+  app/controllers/articles_controller.rb:5:in `create'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (129.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 12:27:28 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 60ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:27:29 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:27:29 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:27:29 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:27:29 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:27:29 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:27:29 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:27:29 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:27:29 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:27:29 +0400
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 12:27:35 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"ty", "text"=>"wer"}, "commit"=>"Save Article"}
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mSQL (14.0ms)[0m  [1mINSERT INTO "articles" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-07-22 08:27:35.793135"], ["text", "wer"], ["title", "ty"], ["updated_at", "2014-07-22 08:27:35.793135"]]
+  [1m[35m (219.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles/1
+Completed 302 Found in 486ms (ActiveRecord: 234.0ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2014-07-22 12:27:36 +0400
+
+AbstractController::ActionNotFound (The action 'show' could not be found for ArticlesController):
+  actionpack (4.1.4) lib/abstract_controller/base.rb:131:in `process'
+  actionview (4.1.4) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.1.4) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.1.4) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.1.4) lib/action_controller/metal.rb:232:in `block in action'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:82:in `call'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:82:in `dispatch'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:50:in `call'
+  actionpack (4.1.4) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.1.4) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.1.4) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:678:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/flash.rb:254:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.1.4) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.4) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (3.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 23ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:41 +0400
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 12:30:56 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"rails is great", "text"=>"yes it is"}, "commit"=>"Save Article"}
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "articles" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", "2014-07-22 08:30:56.388608"], ["text", "yes it is"], ["title", "rails is great"], ["updated_at", "2014-07-22 08:30:56.388608"]]
+  [1m[36m (265.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles/2
+Completed 302 Found in 292ms (ActiveRecord: 268.0ms)
+
+
+Started GET "/articles/2" for 127.0.0.1 at 2014-07-22 12:30:56 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (1.0ms)[0m  SELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered articles/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 19ms (Views: 15.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:56 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:56 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:30:56 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:56 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:30:56 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:30:57 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:57 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:57 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:30:57 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 36ms (Views: 27.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:33:44 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 12:42:32 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (63.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (275.0ms)
+Completed 200 OK in 540ms (Views: 349.0ms | ActiveRecord: 63.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:42:33 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:42:34 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:34 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:42:34 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:34 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:34 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:34 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:34 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:34 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 12:42:39 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (524.0ms)
+Completed 200 OK in 598ms (Views: 596.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:40 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:42:40 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:42:40 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:40 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:42:40 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:40 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:41 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:41 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:41 +0400
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 12:42:48 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"my", "text"=>"article"}, "commit"=>"Save Article"}
+  [1m[36m (9.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (43.0ms)[0m  INSERT INTO "articles" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", "2014-07-22 08:42:49.579401"], ["text", "article"], ["title", "my"], ["updated_at", "2014-07-22 08:42:49.579401"]]
+  [1m[36m (157.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles/3
+Completed 302 Found in 1384ms (ActiveRecord: 209.0ms)
+
+
+Started GET "/articles/3" for 127.0.0.1 at 2014-07-22 12:42:50 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mArticle Load (0.0ms)[0m  SELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered articles/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 101ms (Views: 51.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:50 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:42:50 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:42:50 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:50 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:42:50 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:50 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:50 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:51 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:42:51 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 12:42:53 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 26ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 12:42:55 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 38ms (Views: 37.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 12:42:59 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 45ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 12:43:00 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 37ms (Views: 35.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 12:43:02 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 68ms (Views: 66.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 12:57:21 +0400
+
+SyntaxError (C:/projects/blog2/app/controllers/articles_controller.rb:22: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/articles_controller.rb:22: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (226.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (84.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (1543.1ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 12:58:02 +0400
+
+SyntaxError (C:/projects/blog2/app/controllers/articles_controller.rb:22: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/articles_controller.rb:22: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (34.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (274.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 12:58:30 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (14.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (140.0ms)
+Completed 200 OK in 385ms (Views: 255.0ms | ActiveRecord: 17.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:58:31 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:58:31 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:58:32 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:32 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:32 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:32 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:32 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:32 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:32 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 12:58:37 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (51.0ms)
+Completed 200 OK in 72ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 12:58:41 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"", "text"=>"tftfg"}, "commit"=>"Save Article"}
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered articles/new.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 169ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:58:42 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:42 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:58:42 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:42 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:42 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:58:42 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:42 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:42 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:42 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 12:58:47 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 12:58:47 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:47 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 12:58:47 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 12:58:48 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:48 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:48 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:48 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:48 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 12:58:48 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 13:05:14 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (47.0ms)
+Completed 200 OK in 100ms (Views: 98.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 13:05:20 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"", "text"=>"hjhjkjkjbnm"}, "commit"=>"Save Article"}
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered articles/new.html.erb within layouts/application (61.0ms)
+Completed 200 OK in 123ms (Views: 89.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:05:21 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:05:21 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:05:21 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:05:21 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:05:21 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:05:21 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:05:21 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:05:21 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:05:21 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 13:14:49 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (47.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (724.0ms)
+Completed 200 OK in 1340ms (Views: 928.1ms | ActiveRecord: 49.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:14:59 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:14:59 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:14:59 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:14:59 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:14:59 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:14:59 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:14:59 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:14:59 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:14:59 +0400
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2014-07-22 13:15:11 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mArticle Load (45.0ms)[0m  SELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered articles/show.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 417ms (Views: 30.0ms | ActiveRecord: 45.0ms)
+
+
+Started GET "/articles/1/edit" for 127.0.0.1 at 2014-07-22 13:15:15 +0400
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered articles/edit.html.erb within layouts/application (198.0ms)
+Completed 200 OK in 268ms (Views: 265.0ms | ActiveRecord: 0.0ms)
+
+
+Started PATCH "/articles/1" for 127.0.0.1 at 2014-07-22 13:15:21 +0400
+Processing by ArticlesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"tygh", "text"=>"wer"}, "commit"=>"Save Article", "id"=>"1"}
+  [1m[35mArticle Load (1.0ms)[0m  SELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered articles/edit.html.erb within layouts/application (86.0ms)
+Completed 200 OK in 339ms (Views: 170.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:15:22 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:15:22 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:15:22 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:22 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:22 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:22 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:22 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:22 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:23 +0400
+
+
+Started PATCH "/articles/1" for 127.0.0.1 at 2014-07-22 13:15:29 +0400
+Processing by ArticlesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"tygha", "text"=>"wer"}, "commit"=>"Save Article", "id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (2.0ms)[0m  [1mUPDATE "articles" SET "title" = ?, "updated_at" = ? WHERE "articles"."id" = 1[0m  [["title", "tygha"], ["updated_at", "2014-07-22 09:15:29.244487"]]
+  [1m[35m (159.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles/1
+Completed 302 Found in 1073ms (ActiveRecord: 161.0ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2014-07-22 13:15:30 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered articles/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 22ms (Views: 19.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:15:31 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:15:31 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:31 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:15:31 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:31 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:31 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:31 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:31 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:15:31 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 13:15:33 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 25ms (Views: 21.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 13:30:32 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (29.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (458.0ms)
+Completed 200 OK in 1095ms (Views: 782.0ms | ActiveRecord: 30.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:30:39 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:30:39 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:30:39 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:39 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:39 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:39 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:39 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:39 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:39 +0400
+
+
+Started DELETE "/articles/1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "id"=>"1"}
+  [1m[35mArticle Load (0.0ms)[0m  SELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (19.0ms)[0m  DELETE FROM "articles" WHERE "articles"."id" = ?  [["id", 1]]
+  [1m[36m (125.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles
+Completed 302 Found in 215ms (ActiveRecord: 144.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 38ms (Views: 22.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:30:57 +0400
+
+
+Started DELETE "/articles/2" for 127.0.0.1 at 2014-07-22 13:31:06 +0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "id"=>"2"}
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "articles" WHERE "articles"."id" = ?[0m  [["id", 2]]
+  [1m[35m (211.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles
+Completed 302 Found in 266ms (ActiveRecord: 212.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:31:07 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateComments (20140722093430)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (15.0ms)[0m  [1mCREATE TABLE "comments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "commenter" varchar(255), "body" text, "article_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (1.0ms)[0m  [1mCREATE  INDEX "index_comments_on_article_id" ON "comments" ("article_id")[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20140722093430"]]
+  [1m[36m (180.0ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (1.0ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (1.0ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_comments_on_article_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_comments_on_article_id' AND type='index'
+[0m
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 13:47:39 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 3485ms (Views: 3429.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:47:44 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 13:47:54 +0400
+Processing by ArticlesController#index as HTML
+Completed 500 Internal Server Error in 44ms
+
+SyntaxError (C:/projects/blog2/app/models/article.rb:5: syntax error, unexpected ..., expecting ']'
+[...]
+    ^):
+  app/models/article.rb:5: syntax error, unexpected ..., expecting ']'
+  app/controllers/articles_controller.rb:20:in `index'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (47.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (204.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 260ms (Views: 53.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 13:48:48 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 13:48:52 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (308.0ms)
+  Rendered articles/new.html.erb within layouts/application (369.0ms)
+Completed 200 OK in 415ms (Views: 413.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 13:49:03 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"my last", "text"=>"djfdjfdf"}, "commit"=>"Create Article"}
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "articles" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", "2014-07-22 09:49:03.395690"], ["text", "djfdjfdf"], ["title", "my last"], ["updated_at", "2014-07-22 09:49:03.395690"]]
+  [1m[36m (267.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles/4
+Completed 302 Found in 394ms (ActiveRecord: 268.0ms)
+
+
+Started GET "/articles/4" for 127.0.0.1 at 2014-07-22 13:49:03 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mArticle Load (0.0ms)[0m  SELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36mComment Load (1.0ms)[0m  [1mSELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?[0m  [["article_id", 4]]
+  Rendered articles/show.html.erb within layouts/application (279.0ms)
+Completed 200 OK in 322ms (Views: 316.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:04 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 13:49:11 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 23ms (Views: 21.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/articles/3" for 127.0.0.1 at 2014-07-22 13:49:15 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mComment Load (0.0ms)[0m  SELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?  [["article_id", 3]]
+  Rendered articles/show.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 36ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles/3/comments" for 127.0.0.1 at 2014-07-22 13:49:31 +0400
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "comment"=>{"commenter"=>"Anonymous", "body"=>"Hey!!!"}, "commit"=>"Create Comment", "article_id"=>"3"}
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "comments" ("article_id", "body", "commenter", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["article_id", 3], ["body", "Hey!!!"], ["commenter", "Anonymous"], ["created_at", "2014-07-22 09:49:31.338288"], ["updated_at", "2014-07-22 09:49:31.338288"]]
+  [1m[35m (214.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles/3
+Completed 302 Found in 230ms (ActiveRecord: 216.0ms)
+
+
+Started GET "/articles/3" for 127.0.0.1 at 2014-07-22 13:49:31 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mComment Load (0.0ms)[0m  SELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?  [["article_id", 3]]
+  Rendered articles/show.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 27ms (Views: 24.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 13:49:31 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 13:49:31 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 13:49:31 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 13:49:31 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:31 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:31 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:32 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:32 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:32 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:32 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 13:49:32 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 14:09:47 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (36.0ms)
+Completed 200 OK in 1435ms (Views: 1075.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 14:10:11 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 14:10:12 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 14:10:12 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 14:10:12 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 14:10:12 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 14:10:12 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 14:10:12 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 14:10:12 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 14:10:12 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 14:10:13 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 14:10:13 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 14:10:21 +0400
+Processing by ArticlesController#index as HTML
+Completed 500 Internal Server Error in 422ms
+
+ArgumentError (Unknown key: :deendent. Valid keys are: :class_name, :class, :foreign_key, :validate, :autosave, :table_name, :before_add, :after_add, :before_remove, :after_remove, :extend, :primary_key, :dependent, :as, :through, :source, :source_type, :inverse_of, :counter_cache, :join_table):
+  app/models/article.rb:2:in `<class:Article>'
+  app/models/article.rb:1:in `<top (required)>'
+  app/controllers/articles_controller.rb:22:in `index'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (29.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (54.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (301.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 14:11:02 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (48.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (242.0ms)
+Completed 200 OK in 425ms (Views: 241.0ms | ActiveRecord: 49.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:03 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:03 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:04 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:04 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:04 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:04 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:04 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:04 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:04 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:04 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:04 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 14:11:06 +0400
+Processing by ArticlesController#new as HTML
+Filter chain halted as #<Proc:0x385eb88@C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_controller/metal/http_authentication.rb:71> rendered or redirected
+Completed 401 Unauthorized in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 14:11:12 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (137.0ms)
+  Rendered articles/new.html.erb within layouts/application (169.0ms)
+Completed 200 OK in 259ms (Views: 240.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 14:11:25 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"3 article", "text"=>"welcome"}, "commit"=>"Create Article"}
+Filter chain halted as #<Proc:0x385eb88@C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.4/lib/action_controller/metal/http_authentication.rb:71> rendered or redirected
+Completed 401 Unauthorized in 2ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 14:11:25 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"3 article", "text"=>"welcome"}, "commit"=>"Create Article"}
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "articles" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-07-22 10:11:25.867475"], ["text", "welcome"], ["title", "3 article"], ["updated_at", "2014-07-22 10:11:25.867475"]]
+  [1m[35m (279.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles/5
+Completed 302 Found in 449ms (ActiveRecord: 281.0ms)
+
+
+Started GET "/articles/5" for 127.0.0.1 at 2014-07-22 14:11:26 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35mComment Load (0.0ms)[0m  SELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?  [["article_id", 5]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (56.0ms)
+  Rendered articles/show.html.erb within layouts/application (507.0ms)
+Completed 200 OK in 564ms (Views: 539.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:27 +0400
+
+
+Started POST "/articles/5/comments" for 127.0.0.1 at 2014-07-22 14:11:48 +0400
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "comment"=>{"commenter"=>"anonym", "body"=>"welcome"}, "commit"=>"Create Comment", "article_id"=>"5"}
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "comments" ("article_id", "body", "commenter", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["article_id", 5], ["body", "welcome"], ["commenter", "anonym"], ["created_at", "2014-07-22 10:11:48.524771"], ["updated_at", "2014-07-22 10:11:48.524771"]]
+  [1m[35m (261.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles/5
+Completed 302 Found in 295ms (ActiveRecord: 264.0ms)
+
+
+Started GET "/articles/5" for 127.0.0.1 at 2014-07-22 14:11:48 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35mComment Load (0.0ms)[0m  SELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?  [["article_id", 5]]
+  Rendered comments/_comment.html.erb (2.0ms)
+  Rendered comments/_form.html.erb (22.0ms)
+  Rendered articles/show.html.erb within layouts/application (60.0ms)
+Completed 200 OK in 79ms (Views: 76.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:49 +0400
+
+
+Started DELETE "/articles/5/comments/2" for 127.0.0.1 at 2014-07-22 14:11:56 +0400
+Processing by CommentsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article_id"=>"5", "id"=>"2"}
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35mComment Load (0.0ms)[0m  SELECT  "comments".* FROM "comments"  WHERE "comments"."article_id" = ? AND "comments"."id" = ? LIMIT 1  [["article_id", 5], ["id", 2]]
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  DELETE FROM "comments" WHERE "comments"."id" = ?  [["id", 2]]
+  [1m[36m (122.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles/5
+Completed 302 Found in 167ms (ActiveRecord: 124.0ms)
+
+
+Started GET "/articles/5" for 127.0.0.1 at 2014-07-22 14:11:56 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[35mArticle Load (1.0ms)[0m  SELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1  [["id", 5]]
+  [1m[36mComment Load (1.0ms)[0m  [1mSELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?[0m  [["article_id", 5]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (5.0ms)
+  Rendered articles/show.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 35ms (Views: 30.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 14:11:57 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 22:08:19 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 3266ms (Views: 3190.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 22:08:24 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 22:08:24 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 22:08:24 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 22:08:24 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 22:08:24 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 22:08:25 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 22:08:25 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 22:08:25 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 22:08:25 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 22:08:25 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 22:08:25 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 22:56:02 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 2764ms (Views: 2585.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 22:56:11 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:12 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 22:56:45 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 236ms (Views: 141.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 22:56:46 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:01:44 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2154.1ms)
+Completed 200 OK in 10848ms (Views: 6639.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:02:31 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:02:32 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:02:32 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:02:33 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:02:33 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:02:33 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:02:33 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:02:33 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:02:33 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:02:38 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:02:39 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:06:26 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (27.0ms)
+Completed 200 OK in 206ms (Views: 203.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:06:28 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:06:29 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:06:29 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:06:29 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:06:29 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:06:29 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:06:29 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:06:30 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:06:30 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:06:30 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:06:30 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:07:19 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 57ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:07:20 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:07:20 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:07:21 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:07:21 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:07:21 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:07:21 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:07:21 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:07:21 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:07:21 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:07:21 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:07:21 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:07:32 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 105ms (Views: 103.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:17:23 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 13120ms (Views: 13117.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:17:37 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:17:37 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:17:37 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:17:37 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:17:38 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:17:38 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:17:38 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:17:38 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:17:38 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:17:38 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:17:38 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:17:38 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:18:49 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 2564ms (Views: 2514.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:18:54 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:18:54 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:18:54 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:18:54 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:18:54 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:18:55 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:18:55 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:18:55 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:18:55 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:18:55 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:18:55 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:18:55 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:20:13 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6471ms (Views: 6469.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:20 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:20:32 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2984ms (Views: 2982.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:35 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:20:52 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2647ms (Views: 2645.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:20:55 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:22:23 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 2604ms (Views: 2602.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:22:25 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:22:26 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:23:14 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2878ms (Views: 2876.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:17 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:17 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:17 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:17 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:18 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:18 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:18 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:18 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:18 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:18 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:18 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:18 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:23:56 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 71ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:23:57 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 23:26:49 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (1772.1ms)
+  Rendered articles/new.html.erb within layouts/application (2150.1ms)
+Completed 200 OK in 3849ms (Views: 2771.2ms | ActiveRecord: 102.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:26:54 +0400
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 23:27:12 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"hey", "text"=>"123"}, "commit"=>"Create Article"}
+  [1m[35m (13.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  Rendered articles/_form.html.erb (5.0ms)
+  Rendered articles/new.html.erb within layouts/application (110.0ms)
+Completed 200 OK in 660ms (Views: 191.0ms | ActiveRecord: 14.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:13 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:13 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:13 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:13 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:13 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:13 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:13 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:14 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:14 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:14 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:14 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:14 +0400
+
+
+Started POST "/articles" for 127.0.0.1 at 2014-07-22 23:27:18 +0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article"=>{"title"=>"hey34", "text"=>"123"}, "commit"=>"Create Article"}
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mSQL (40.0ms)[0m  [1mINSERT INTO "articles" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-07-22 19:27:18.329363"], ["text", "123"], ["title", "hey34"], ["updated_at", "2014-07-22 19:27:18.329363"]]
+  [1m[35m (149.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles/6
+Completed 302 Found in 973ms (ActiveRecord: 190.0ms)
+
+
+Started GET "/articles/6" for 127.0.0.1 at 2014-07-22 23:27:19 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 6]]
+  [1m[35mComment Load (1.0ms)[0m  SELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?  [["article_id", 6]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (162.0ms)
+  Rendered articles/show.html.erb within layouts/application (492.0ms)
+Completed 200 OK in 622ms (Views: 598.0ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:20 +0400
+
+
+Started POST "/articles/6/comments" for 127.0.0.1 at 2014-07-22 23:27:34 +0400
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "comment"=>{"commenter"=>"34", "body"=>"de"}, "commit"=>"Create Comment", "article_id"=>"6"}
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 6]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (6.0ms)[0m  [1mINSERT INTO "comments" ("article_id", "body", "commenter", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["article_id", 6], ["body", "de"], ["commenter", "34"], ["created_at", "2014-07-22 19:27:34.903311"], ["updated_at", "2014-07-22 19:27:34.903311"]]
+  [1m[35m (333.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles/6
+Completed 302 Found in 541ms (ActiveRecord: 340.0ms)
+
+
+Started GET "/articles/6" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 6]]
+  [1m[35mComment Load (0.0ms)[0m  SELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?  [["article_id", 6]]
+  Rendered comments/_comment.html.erb (2.0ms)
+  Rendered comments/_form.html.erb (4.0ms)
+  Rendered articles/show.html.erb within layouts/application (43.0ms)
+Completed 200 OK in 109ms (Views: 106.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:35 +0400
+
+
+Started DELETE "/articles/6/comments/3" for 127.0.0.1 at 2014-07-22 23:27:41 +0400
+Processing by CommentsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "article_id"=>"6", "id"=>"3"}
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 6]]
+  [1m[35mComment Load (0.0ms)[0m  SELECT  "comments".* FROM "comments"  WHERE "comments"."article_id" = ? AND "comments"."id" = ? LIMIT 1  [["article_id", 6], ["id", 3]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  DELETE FROM "comments" WHERE "comments"."id" = ?  [["id", 3]]
+  [1m[36m (185.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles/6
+Completed 302 Found in 266ms (ActiveRecord: 187.0ms)
+
+
+Started GET "/articles/6" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[35mArticle Load (0.0ms)[0m  SELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1  [["id", 6]]
+  [1m[36mComment Load (1.0ms)[0m  [1mSELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?[0m  [["article_id", 6]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (4.0ms)
+  Rendered articles/show.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 76ms (Views: 72.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:27:42 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 23:27:45 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 166ms (Views: 163.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-22 23:27:57 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (4.0ms)
+  Rendered articles/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 66ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-22 23:28:00 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 66ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-22 23:28:11 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 314ms (Views: 312.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 23:28:12 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-23 11:04:42 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 1484ms (Views: 1348.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-23 11:04:50 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-23 11:04:50 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-23 11:04:50 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-23 11:04:50 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-23 11:04:50 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-23 11:04:50 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-23 11:04:51 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-23 11:04:51 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-23 11:04:51 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-23 11:04:51 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-23 11:04:51 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-23 11:04:51 +0400
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-23 11:05:26 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (40.0ms)
+Completed 200 OK in 577ms (Views: 243.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-23 11:05:27 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-23 11:05:27 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-23 11:05:27 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-23 11:05:27 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-23 11:05:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-23 11:05:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-23 11:05:27 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-23 11:05:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-23 11:05:28 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-23 11:05:28 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-23 11:05:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-23 11:05:28 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-23 11:05:51 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (316.0ms)
+  Rendered articles/new.html.erb within layouts/application (454.0ms)
+Completed 200 OK in 696ms (Views: 694.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-23 11:05:55 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 72ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started DELETE "/articles/3" for 127.0.0.1 at 2014-07-23 11:06:04 +0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"r/F95EAO017KktgbZ2+dzAuiAc2h3xcE3393RTYJmYk=", "id"=>"3"}
+  [1m[35mArticle Load (1.0ms)[0m  SELECT  "articles".* FROM "articles"  WHERE "articles"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mComment Load (0.0ms)[0m  SELECT "comments".* FROM "comments"  WHERE "comments"."article_id" = ?  [["article_id", 3]]
+  [1m[36mSQL (21.0ms)[0m  [1mDELETE FROM "comments" WHERE "comments"."id" = ?[0m  [["id", 1]]
+  [1m[35mSQL (0.0ms)[0m  DELETE FROM "articles" WHERE "articles"."id" = ?  [["id", 3]]
+  [1m[36m (138.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/articles
+Completed 302 Found in 426ms (ActiveRecord: 161.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-23 11:06:04 +0400
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.0ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 72ms (Views: 69.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-23 11:06:05 +0400
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2014-07-23 11:06:09 +0400
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (5.0ms)
+  Rendered articles/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 89ms (Views: 87.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2014-07-23 11:06:11 +0400
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 80ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-23 19:42:20 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 1090ms (Views: 1007.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-07-23 19:42:22 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-07-23 19:42:22 +0400
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-07-23 19:42:22 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-07-23 19:42:22 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-23 19:42:22 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-23 19:42:23 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-23 19:42:23 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-23 19:42:23 +0400
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-07-23 19:42:23 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-07-23 19:42:23 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-07-23 19:42:23 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-23 19:42:23 +0400
