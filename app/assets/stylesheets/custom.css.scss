@@ -6,8 +6,13 @@ html {
 }
 
 body {
-  padding-top: 120px;
+  padding-top: 80px;
+ background-image:url("http://cdn.theanimals.pics/pictures/wallpoper.com/images/00/25/31/44/pink-white_00253144.jpg")
+ 
 }
+#myposts{
+  float:left;
+  }
 
 section {
   overflow: auto;
@@ -32,14 +37,14 @@ h1 {
   font-size: 3em;
   letter-spacing: -2px;
   margin-bottom: 30px;
-  text-align: center;
+  text-align: left;
 }
 
 h2 {
   font-size: 1.2em;
   letter-spacing: -1px;
   margin-bottom: 30px;
-  text-align: center;
+  text-align: left;
   font-weight: normal;
   color: #999;
 }
@@ -66,3 +71,5 @@ p {
   color: #fff;
   text-decoration: none;
 }
+
+

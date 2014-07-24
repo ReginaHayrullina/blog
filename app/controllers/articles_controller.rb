@@ -1,5 +1,6 @@
 class ArticlesController < ApplicationController
 http_basic_authenticate_with name: "regi", password: "secret", except: [:index, :show]
+ before_filter :authenticate_user!, :except => [:show, :index]
 def new
 	@article = Article.new
 end

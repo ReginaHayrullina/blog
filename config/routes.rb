@@ -1,8 +1,13 @@
 Rails.application.routes.draw do
+  devise_for :users
+  devise_for :installs
+  get 'persons/profile'
+
   get 'welcome/index'
    resources :articles do
     resources :comments
   end
+  get 'persons/profile', as: 'user_root'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
